@@ -1,0 +1,88 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 6",
+        "description": "An apple mobile which is nothing like apple",
+        "price": 549,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 2,
+        "title": "iPhone 7s",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "price": 899,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%205s/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 3,
+        "title": "Samsung Galaxy S7",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "price": 1249,
+        "category": "smartphones",
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S7/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "price": 280,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 5,
+        "title": "Vivo S1",
+        "description": "The Vivo S1 is a stylish and mid-range smartphone offering a blend of design and performance",
+        "price": 499,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 6,
+        "title": "Vivo X21",
+        "description": "The Vivo X21 is a premium smartphone with a focus on cutting-edge technology",
+        "price": 1749,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20X21/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 7,
+        "title": "Realme X",
+        "description": "The Realme X is a mid-range smartphone known for its sleek design and impressive display",
+        "price": 1499,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Realme%20X/thumbnail.png",
+        "quantity" : 1
+      },
+      {
+        "id": 8,
+        "title": "Samsung Galaxy S10",
+        "description": "Samsung Galaxy S10 with a Massive 8GB of RAM Launched",
+        "price": 2499,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S10/thumbnail.png",
+        "quantity" : 1
+
+      },
+      {
+        "id": 9,
+        "title": "Iphone X",
+        "description": "The iPhone X is a flagship smartphone featuring a bezel-less OLED display, facial recognition technology (Face ID), and impressive performance",
+        "price": 1800,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+        "quantity" : 1
+
+      },
+      {
+        "id": 10,
+        "title": "Oppo A57",
+        "description": "The Oppo A57 is a mid-range smartphone known for its sleek design and capable features",
+        "price": 150,
+        "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png",
+        "quantity" : 1
+
+      }
+    ]
+  }
